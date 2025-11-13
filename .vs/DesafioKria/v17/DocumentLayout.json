@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Source\\Desafio\\Kria\\DesafioKria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\services\\desafioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\desafioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\models\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\controllers\\desafiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\desafiocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\models\\envelopedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\envelopedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\models\\tabtransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\tabtransacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\views\\desafio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\desafio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|c:\\source\\desafio\\kria\\desafiokria\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35AA9261-1270-421A-8CF3-53FA717457A0}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TabTransacao.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Models\\TabTransacao.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TabTransacao.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Models\\TabTransacao.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TabTransacao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:35:59.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T04:23:12.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Views\\Desafio\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Desafio\\Index.cshtml",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Views\\Desafio\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Desafio\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T04:22:55.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DesafioService.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Services\\DesafioService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\DesafioService.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Services\\DesafioService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\DesafioService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwDUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:16:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MongoService.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Services\\MongoService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\MongoService.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Services\\MongoService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\MongoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:16:23.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesafioController.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Controllers\\DesafioController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DesafioController.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Controllers\\DesafioController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DesafioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:14:30.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroDTO.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Models\\RegistroDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\RegistroDTO.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Models\\RegistroDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\RegistroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:12:24.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnvelopeDTO.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Models\\EnvelopeDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\EnvelopeDTO.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Models\\EnvelopeDTO.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\EnvelopeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:52:59.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Source\\Desafio\\Kria\\DesafioKria\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T04:26:04.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

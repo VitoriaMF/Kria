@@ -1,0 +1,30 @@
+﻿@model List<WebApplication1.Models.TabTransacao>
+@{
+    ViewData["Title"] = "Desafio Kria";
+}
+
+<h2>Resultado da Transmissão</h2>
+<p>@ViewBag.Mensagem</p>
+
+<h3>Transações Enviadas</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>GUID</th>
+            <th>Praça</th>
+            <th>Cabine</th>
+            <th>Instante</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.CodigoPracaPedagio</td>
+                <td>@item.CodigoCabine</td>
+                <td>@item.Instante</td>
+            </tr>
+        }
+    </tbody>
+</table>

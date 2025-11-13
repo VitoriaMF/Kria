@@ -1,0 +1,21 @@
+﻿@model Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateDictionary
+@{
+    ViewData["Title"] = "Erro";
+}
+
+<h1 class="text-danger">Ops! Algo deu errado.</h1>
+<p class="text-muted">Ocorreu um erro inesperado. Tente novamente mais tarde ou entre em contato com o suporte.</p>
+
+@if (Model != null && !Model.IsValid)
+{
+    <h4>Detalhes do erro:</h4>
+    <ul>
+        @foreach (var entry in Model)
+        {
+            foreach (var error in entry.Value.Errors)
+            {
+                <li>@error.ErrorMessage</li>
+            }
+        }
+    </ul>
+}
